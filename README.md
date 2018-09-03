@@ -1,7 +1,8 @@
 # Resources
-#### List of resources for web developers. Collected at the forum during the Google / Udacity Front-End Developer Scholarship.  
+#### List of resources for ~~web~~ developers. Collected at the forum during the Google / Udacity Front-End Developer Scholarship.  
 
-#### Website [https://bycorsanchez.github.io/resources](https://bycorsanchez.github.io/resources/)
+#### URL: [https://bycorsanchez.github.io/resources](https://bycorsanchez.github.io/resources/)
+#### Google site: [https://sites.google.com/view/createdbyudacitystudents/home/fend](https://sites.google.com/view/createdbyudacitystudents/home/fend)
 
 ## HTML
 * [HTML 5.3](http://w3c.github.io/html/)
@@ -37,18 +38,14 @@
 * [ES6 Features](http://es6-features.org/)
 * [Watch and Code](https://watchandcode.com/)
 
-## JavaScript challenges and exercices
-* [JS Codewars](https://www.codewars.com/?language=javascript)
-* [JS30 challenge](https://javascript30.com)
-* [Coderbyte JS challenges](https://coderbyte.com/editor/guest:First%20Factorial:JavaScript)
-* [JS Exercises](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
-* [JS Exercises2](https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php)
-* [Edabit](https://edabit.com)
-
 ## Jquery
 * [Documentation](http://api.jquery.com)
 * [JQuery Tutorial](http://try.jquery.com)
 * [JQuery CheatSheet](https://oscarotero.com/jquery/)
+
+## Git
+* [Try Git](https://try.github.io)
+* [Git immersion](http://gitimmersion.com)
 
 ## Courses and online learning
 * [Udacity](https://www.udacity.com)
@@ -65,10 +62,8 @@
 * [Coursera](https://www.coursera.org)
 * [Lynda](https://www.lynda.com)
 * [HTML CSS JS Tutorials](http://htmldog.com)
-* [Codewars](https://www.codewars.com)
 * [W3Schools](https://www.w3schools.com)
 * [Khan academy](https://www.khanacademy.org)
-* [CoderByte](https://coderbyte.com)
 * [Code School](https://www.codeschool.com)
 * [Bento](https://bento.io/tracks)
 * [Sitepoint](https://www.sitepoint.com)
@@ -79,12 +74,33 @@
 * [Internet is hard](https://internetingishard.com)
 * [Egg Head](https://egghead.io)
 * [Sabe](https://sabe.io)
-* [HackerRank](https://www.hackerrank.com)
 * [Platzi](https://courses.platzi.com)
 * [Laracasts](https://laracasts.com)
 * [Codemonk on Hackerearth](https://www.hackerearth.com/practice/codemonk/)
 * [Coding Heroes](http://codingheroes.io/index.html)
 * [Wes Bos](http://wesbos.com/courses/)
+* [Edabit](https://edabit.com)
+* [Paqmind](http://paqmind.com)
+* [Open Classrooms](https://openclassrooms.com)
+* [Learn Code The Hard Way](https://learncodethehardway.org)
+* [Beginner's Book](https://beginnersbook.com)
+* [Upskill Courses](https://upskillcourses.com)
+* [Learn to Code HTML and CSS](https://learn.shayhowe.com)
+* [Scotch.io](https://scotch.io/courses)
+* [Progate](https://progate.com)
+
+## Coding challenges
+* [Coderbyte](https://coderbyte.com/)
+* [Codewars](https://www.codewars.com)
+* [Code Fights](https://codefights.com)
+* [CodinGame](https://www.codingame.com/)
+* [Top Coder challenges](https://www.topcoder.com/challenges/)
+* [HackerRank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com/)
+* [Code Chef](https://www.codechef.com/)
+* [Geeks for geeks](https://www.geeksforgeeks.org/)
+* [Code Forces](http://codeforces.com/)
+* [JS30 challenge](https://javascript30.com)
 
 ## Fonts and typography
 * [Google Fonts](https://fonts.google.com)
@@ -98,6 +114,8 @@
 * [DaFont](https://www.dafont.com)
 * [1001FreeFonts](https://www.1001freefonts.com)
 * [Font Pair](http://fontpair.co)
+* [Font Combinations](https://www.canva.com/font-combinations/)
+* [typ.io](http://typ.io)
 
 ## Online Tools
 * [CSSmatic](https://www.cssmatic.com)
@@ -115,6 +133,9 @@
 * [Glyphter custom icon fonts](https://glyphter.com)
 * [Regular Expressions tester](https://regex101.com)
 * [JavaScript Object Explorer](https://sdras.github.io//object-explorer/)
+* [Code visualizer](http://www.pythontutor.com/visualize.html)
+* [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
+* [Our Own Thing](http://www.ourownthing.co.uk)
 
 ## Colors and Palettes
 * [Adobe Color](https://color.adobe.com)
@@ -131,17 +152,26 @@
 * [0to255](http://www.0to255.com/)
 * [Lol Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 * [Web Gradients](https://webgradients.com)
+* [HailPixel](https://color.hailpixel.com/)
+* [ColourCode](https://colourco.de)
+* [Color Hunt](http://colorhunt.co)
+* [Pigment](https://pigment.shapefactory.co)
+* [GradientLab](https://gradientlab.space/)
+* [Picular](https://picular.co)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS Flexbox Toolbox](https://speckyboy.com/css-flexbox-toolbox/)
 * [Learn Layout (flexbox)](http://learnlayout.com/flexbox.html)
 * [Flexbox.io](https://flexbox.io)
+* [CSS Flebox Mozilla developers](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 
 ## CSS Grid and Bootstrap
 * [CSS Grid by example](https://gridbyexample.com)
 * [JenSimmons Labs CSS Grid](http://labs.jensimmons.com)
 * [CSS grid starter layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
+* [CSS grid Mozilla developers](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+* [cssgrid.io](https://cssgrid.io)
 * [Bootstrap Framework](https://getbootstrap.com/docs/3.3/)
 * [Bootstrap grid builder](http://shoelace.io)
 
@@ -154,7 +184,7 @@
 * [Burst Shopify](https://burst.shopify.com)
 * [Isorepublic](https://isorepublic.com)
 * [Gratisography](https://gratisography.com)
-* [Jaymantri](http://jaymantri.com/)
+* [Jay Mantri](http://jaymantri.com/)
 * [Foodies Feed](https://www.foodiesfeed.com/)
 * [Negative Space](https://negativespace.co/)
 * [Freestocks](https://freestocks.org)
@@ -166,6 +196,19 @@
 * [Freepik](https://www.freepik.com)
 * [Magdeleine](https://magdeleine.co/)
 * [Cupcake](http://cupcake.nilssonlee.se)
+* [Avopix](https://avopix.com)
+* [Little Visuals](http://littlevisuals.co)
+* [Skuawk](http://skuawk.com)
+* [SplitShire](https://www.splitshire.com)
+* [Food Shot](https://foodshot.co)
+* [Pickup Image](http://pickupimage.com)
+* [Life of pix](http://www.lifeofpix.com)
+* [DesignersPics](http://www.designerspics.com)
+* [Good Stock Photos](https://goodstock.photos)
+* [Free Image Bank](http://www.freemagebank.com)
+* [Travel coffee book](http://travelcoffeebook.com)
+* [Finda photo](http://finda.photo)
+* [Wesaturate](https://www.wesaturate.com)
 
 ## Icons
 * [Font Awesome](http://fontawesome.io/)
@@ -180,6 +223,15 @@
 * [Devicon](http://konpa.github.io/devicon/)
 * [Fontello](http://fontello.com)
 * [We Love Icon Fonts](http://weloveiconfonts.com)
+* [Orion Icon Library](https://orioniconlibrary.com)
+* [Tilda Icons](https://tilda.cc/free-icons/)
+
+## Backgrounds
+* [Cool Backgrounds](https://coolbackgrounds.io)
+* [The Pattern Library](http://thepatternlibrary.com/)
+* [Hero Patterns](http://www.heropatterns.com)
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+* [Patterninja](https://patterninja.com)
 
 ## Podcasts 
 * [Castbox](https://castbox.fm)
@@ -213,36 +265,26 @@
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [JS Books](https://jsbooks.revolunet.com)
 * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [GoalKicker](http://goalkicker.com)
 
-## Reddit threads
-* [HTML](https://www.reddit.com/r/HTML/)
-* [CSS](https://www.reddit.com/r/css/)
-* [Javascript](https://www.reddit.com/r/javascript/)
-* [Web development](https://www.reddit.com/r/webdev/)
-* [Web design](https://www.reddit.com/r/web_design/)
-* [JQuery](https://www.reddit.com/r/jquery/)
-
-## Games & Apps
+## Games
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Grid Garden](http://cssgridgarden.com)
 * [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 * [Grid Critters](https://geddski.teachable.com/p/gridcritters)
-* [Encode](https://itunes.apple.com/us/app/encode-learn-to-code/id1198851756?mt=8)
-* [Coding Games](https://www.codingame.com)
 * [CheckiO](https://checkio.org)
 * [CSS Diner](https://flukeout.github.io)
 * [Flukeout (CSS exercises)](http://flukeout.github.io)
 
-## Youtube channels 
-* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-* [Derek Banas](https://www.youtube.com/user/derekbanas)
-* [CodingTutorials360](https://www.youtube.com/user/pizzapokerguy87)
-* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
-* [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
-* [Le Wagon](https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw)
-* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-* [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+## Mobile Apps
+* Encode [(itunes)](https://itunes.apple.com/us/app/encode-learn-to-code/id1198851756?mt=8) [(android)](https://play.google.com/store/apps/details?id=com.upskew.encode)
+* Udacity [(itunes)](https://itunes.apple.com/us/app/udacity/id819700933?mt=8) [(android)](https://play.google.com/store/apps/details?id=com.udacity.android)
+* Khan Academy [(itunes)](https://itunes.apple.com/am/app/khan-academy/id469863705?mt=8) [(android)](https://play.google.com/store/apps/details?id=org.khanacademy.android)
+* Code Hub [(android)](https://play.google.com/store/apps/details?id=trycodehub.com)
+* SoloLearn [(itunes)](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8) [(android)](https://play.google.com/store/apps/details?id=com.sololearn)
+* Programming Hub [(android)](https://play.google.com/store/apps/details?id=com.freeit.java)
+* Enki [(itunes)](https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8) [(android)](https://play.google.com/store/apps/details?id=com.enki.insights)
 
 ## Design
 * [Design Inspiration](https://www.designspiration.net)
@@ -263,6 +305,7 @@
 * [Codrops](https://tympanus.net/codrops/)
 * [UX Design](https://uxdesign.cc)
 * [Code My UI](https://codemyui.com/)
+* [Good UI](http://goodui.org)
 
 ## Resources for women & girls
 * [Women Who Code](https://www.womenwhocode.com)
@@ -293,25 +336,57 @@
 * [Girls teaching girls to code](http://girlsteachinggirlstocode.org)
 
 ## Bookmarks
-* [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [Front-end Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 * [Awesome Resources](https://github.com/dreamtocode/awesome-resources)
+* [Front-end Resources](https://enboard.co/frontend/)
+* [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/)
+* [Awesome pictures](https://github.com/heyalexej/awesome-images)
+* [Pretty Awesome Lists](https://www.prettyawesomelists.com)
+
+## Youtube channels 
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [Derek Banas](https://www.youtube.com/user/derekbanas)
+* [CodingTutorials360](https://www.youtube.com/user/pizzapokerguy87)
+* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+* [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+* [Le Wagon](https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+
+## Reddit threads
+* [HTML](https://www.reddit.com/r/HTML/)
+* [CSS](https://www.reddit.com/r/css/)
+* [Javascript](https://www.reddit.com/r/javascript/)
+* [Web development](https://www.reddit.com/r/webdev/)
+* [Web design](https://www.reddit.com/r/web_design/)
+* [JQuery](https://www.reddit.com/r/jquery/)
+* [Learn Programming](https://www.reddit.com/r/learnprogramming/)
 
 ## Learning Paths
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
+* [Guides in a variety of domains (including web development)](https://github.com/P1xt/p1xt-guides)
 
-## Miscellaneous 
+## Miscellaneous
 * [Stackoverflow](https://stackoverflow.com)
+* [GitHub](https://github.com)
 * [Devdocs API documentation](http://devdocs.io)
 * [CodePen](https://codepen.io)
 * [Emmet CheatSheet](https://docs.emmet.io/cheat-sheet/)
 * [Makerbook](http://makerbook.net)
 * [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)
-* [Pattern Library](http://thepatternlibrary.com/)
 * [Collection of JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
 * [Codeburst](https://codeburst.io)
 * [JavaScripting](http://www.javascripting.com)
+* [Nodeschool](https://nodeschool.io)
+* [Speckyboy](https://speckyboy.com)
 * [Testdome](https://www.testdome.com)
+* [InterviewBit](https://www.interviewbit.com)
+* [Computer Science in laymens terms](http://carlcheo.com/compsci)
+* [g5code](http://www.g5code.com/)
+* [The Code Player](http://thecodeplayer.com)
+* [Simple CSS](http://simplecss.eu)
 
-Last update: January 13th, 2018
+Last update: March 15th, 2018
